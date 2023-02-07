@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+.clock{
+    text-align: center;
+    font-size: 60px;
+    border: 1px solid;
+    color: white;
+    margin-top: 23%;
+    width: 20%;
+    margin-left: 38%;
+    background-color: rgb(11, 117, 198);
+    box-shadow: 1px 2px 3px yellowgreen;
+}
+span{
+    font-size: small;
+}
